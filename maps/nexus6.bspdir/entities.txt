@@ -399,48 +399,48 @@
 {
 "classname" "target_speaker"
 "origin" "-1560 -568 -472"
-"noise" "sound\ambient\steam.wav"
+"noise" "sound/ambient/steam"
 "spawnflags" "1"
 }
 {
 "classname" "target_speaker"
 "origin" "1056 1024 -432"
-"noise" "sound\ambient\quickpulse.wav"
+"noise" "sound/ambient/quickpulse"
 "spawnflags" "1"
 }
 {
 "classname" "target_speaker"
 "origin" "-2112 1536 -832"
 "spawnflags" "1"
-"noise" "sound\ambient\30-60HzHum.wav"
+"noise" "sound/ambient/30-60HzHum"
 }
 {
-"noise" "sound\ambient\30-60HzHum.wav"
+"noise" "sound/ambient/30-60HzHum"
 "spawnflags" "1"
 "origin" "-2560 1536 -832"
 "classname" "target_speaker"
 }
 {
-"noise" "sound\ambient\fan.wav"
+"noise" "sound/ambient/fan"
 "spawnflags" "1"
 "origin" "-2640 64 -192"
 "classname" "target_speaker"
 }
 {
 "spawnflags" "1"
-"noise" "sound\ambient\drone2.wav"
+"noise" "sound/ambient/drone2"
 "origin" "-2016 928 -784"
 "classname" "target_speaker"
 }
 {
 "spawnflags" "1"
-"noise" "sound\ambient\drone1.wav"
+"noise" "sound/ambient/drone1"
 "origin" "-448 640 -1032"
 "classname" "target_speaker"
 }
 {
 "spawnflags" "1"
-"noise" "sound\ambient\steam.wav"
+"noise" "sound/ambient/steam"
 "origin" "-1560 1800 -880"
 "classname" "target_speaker"
 }
