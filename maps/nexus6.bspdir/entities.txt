@@ -1,0 +1,684 @@
+{
+"message" "Nexus Corp. Infusion Plant 6"
+"classname" "worldspawn"
+}
+{
+"angle" "-1"
+"speed" "800"
+"classname" "func_door"
+"model" "*1"
+}
+{
+"angle" "-1"
+"speed" "800"
+"classname" "func_door"
+"model" "*2"
+}
+{
+"angle" "-1"
+"speed" "800"
+"classname" "func_door"
+"model" "*3"
+}
+{
+"angle" "-1"
+"speed" "800"
+"classname" "func_door"
+"model" "*4"
+}
+{
+"angle" "-1"
+"speed" "800"
+"classname" "func_door"
+"model" "*5"
+}
+{
+"angle" "-1"
+"speed" "800"
+"classname" "func_door"
+"model" "*6"
+}
+{
+"angle" "-1"
+"speed" "800"
+"classname" "func_door"
+"model" "*7"
+}
+{
+"angle" "-1"
+"speed" "800"
+"classname" "func_door"
+"model" "*8"
+}
+{
+"angle" "-1"
+"speed" "800"
+"classname" "func_door"
+"model" "*9"
+}
+{
+"angle" "-1"
+"speed" "800"
+"classname" "func_door"
+"model" "*10"
+}
+{
+"angle" "-1"
+"speed" "800"
+"classname" "func_door"
+"model" "*11"
+}
+{
+"angle" "-1"
+"speed" "800"
+"classname" "func_door"
+"model" "*12"
+}
+{
+"angle" "-1"
+"speed" "800"
+"classname" "func_door"
+"model" "*13"
+}
+{
+"angle" "-1"
+"speed" "800"
+"classname" "func_door"
+"model" "*14"
+}
+{
+"angle" "-1"
+"speed" "800"
+"classname" "func_door"
+"model" "*15"
+}
+{
+"speed" "800"
+"angle" "-1"
+"classname" "func_door"
+"model" "*16"
+}
+{
+"classname" "misc_light_flare"
+"origin" "-1224 1880 -587"
+"radius" "5 90 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/nexus6/flare_01"
+}
+{
+"targetShaderName" "textures/nexus6/flare_01"
+"angles" "90 0 0"
+"radius" "5 90 50"
+"origin" "-1224 2056 -587"
+"classname" "misc_light_flare"
+}
+{
+"classname" "misc_light_flare"
+"origin" "-1136 2184 -691"
+"radius" "5 90 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/nexus6/flare_01"
+}
+{
+"targetShaderName" "textures/nexus6/flare_01"
+"angles" "90 0 0"
+"radius" "5 90 50"
+"origin" "-976 2184 -691"
+"classname" "misc_light_flare"
+}
+{
+"classname" "misc_light_flare"
+"origin" "-888 2056 -587"
+"radius" "5 90 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/nexus6/flare_01"
+}
+{
+"targetShaderName" "textures/nexus6/flare_01"
+"angles" "90 0 0"
+"radius" "5 90 50"
+"origin" "-888 1880 -587"
+"classname" "misc_light_flare"
+}
+{
+"targetShaderName" "textures/nexus6/flare_01"
+"angles" "90 0 0"
+"radius" "5 90 50"
+"origin" "-1056 1552 -739"
+"classname" "misc_light_flare"
+}
+{
+"classname" "misc_light_flare"
+"origin" "-3392 144 -675"
+"radius" "5 90 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/nexus6/flare_01"
+}
+{
+"targetShaderName" "textures/nexus6/flare_01"
+"angles" "90 0 0"
+"radius" "5 90 50"
+"origin" "-3280 400 -675"
+"classname" "misc_light_flare"
+}
+{
+"classname" "misc_light_flare"
+"origin" "-3504 400 -675"
+"radius" "5 90 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/nexus6/flare_01"
+}
+{
+"targetShaderName" "textures/nexus6/flare_01"
+"angles" "90 0 0"
+"radius" "5 90 50"
+"origin" "-3224 728 -507"
+"classname" "misc_light_flare"
+}
+{
+"classname" "misc_light_flare"
+"origin" "-3224 552 -507"
+"radius" "5 90 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/nexus6/flare_01"
+}
+{
+"targetShaderName" "textures/nexus6/flare_01"
+"angles" "90 0 0"
+"radius" "5 90 50"
+"origin" "-3560 552 -507"
+"classname" "misc_light_flare"
+}
+{
+"classname" "misc_light_flare"
+"origin" "-3560 728 -507"
+"radius" "5 90 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/nexus6/flare_01"
+}
+{
+"targetShaderName" "textures/nexus6/flare_red_02"
+"angles" "0 270 0"
+"radius" "5 35 50"
+"origin" "-3392 1048 -643"
+"classname" "misc_light_flare"
+}
+{
+"classname" "misc_light_flare"
+"origin" "-3264 1048 -643"
+"radius" "5 35 50"
+"angles" "0 270 0"
+"targetShaderName" "textures/nexus6/flare_red_02"
+}
+{
+"targetShaderName" "textures/nexus6/flare_01"
+"angles" "90 0 0"
+"radius" "5 90 50"
+"origin" "-2560 1060 -659"
+"classname" "misc_light_flare"
+}
+{
+"targetShaderName" "textures/nexus6/flare_red_02"
+"angles" "90 0 0"
+"radius" "5 55 50"
+"origin" "-3264 1048 -643"
+"classname" "misc_light_flare"
+}
+{
+"classname" "misc_light_flare"
+"origin" "-3392 1048 -643"
+"radius" "5 55 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/nexus6/flare_red_02"
+}
+{
+"targetShaderName" "textures/nexus6/flare_red_02"
+"angles" "90 0 0"
+"radius" "5 55 50"
+"origin" "-3520 1048 -643"
+"classname" "misc_light_flare"
+}
+{
+"classname" "misc_light_flare"
+"origin" "-3136 1048 -643"
+"radius" "5 55 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/nexus6/flare_red_02"
+}
+{
+"targetShaderName" "textures/nexus6/flare_red_02"
+"angles" "90 0 0"
+"radius" "5 55 50"
+"origin" "-3008 1048 -643"
+"classname" "misc_light_flare"
+}
+{
+"classname" "misc_light_flare"
+"origin" "-2880 1048 -643"
+"radius" "5 55 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/nexus6/flare_red_02"
+}
+{
+"classname" "misc_light_flare"
+"origin" "-2752 1048 -643"
+"radius" "5 55 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/nexus6/flare_red_02"
+}
+{
+"classname" "misc_light_flare"
+"origin" "-2560 2012 -659"
+"radius" "5 90 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/nexus6/flare_01"
+}
+{
+"targetShaderName" "textures/nexus6/flare_red_02"
+"angles" "90 0 0"
+"radius" "5 55 50"
+"origin" "-1728 2024 -643"
+"classname" "misc_light_flare"
+}
+{
+"classname" "misc_light_flare"
+"origin" "-1856 2024 -643"
+"radius" "5 55 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/nexus6/flare_red_02"
+}
+{
+"targetShaderName" "textures/nexus6/flare_red_02"
+"angles" "90 0 0"
+"radius" "5 55 50"
+"origin" "-1984 2024 -643"
+"classname" "misc_light_flare"
+}
+{
+"targetShaderName" "textures/nexus6/flare_red_02"
+"angles" "90 0 0"
+"radius" "5 55 50"
+"origin" "-2112 2024 -643"
+"classname" "misc_light_flare"
+}
+{
+"classname" "misc_light_flare"
+"origin" "-2240 2024 -643"
+"radius" "5 55 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/nexus6/flare_red_02"
+}
+{
+"targetShaderName" "textures/nexus6/flare_red_02"
+"angles" "90 0 0"
+"radius" "5 55 50"
+"origin" "-2368 2024 -643"
+"classname" "misc_light_flare"
+}
+{
+"classname" "misc_light_flare"
+"origin" "-2496 1536 -1149"
+"radius" "5 90 50"
+"angles" "-90 0 0"
+"targetShaderName" "textures/nexus6/flare_red_02"
+}
+{
+"classname" "misc_light_flare"
+"origin" "-1536 -448 -283"
+"radius" "5 90 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/nexus6/flare_red_02"
+}
+{
+"targetShaderName" "textures/nexus6/flare_red_02"
+"angles" "90 0 0"
+"radius" "5 90 50"
+"origin" "768 384 -259"
+"classname" "misc_light_flare"
+}
+{
+"classname" "misc_light_flare"
+"origin" "960 384 -259"
+"radius" "5 90 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/nexus6/flare_red_02"
+}
+{
+"classname" "misc_light_flare"
+"origin" "1152 592 -259"
+"radius" "5 90 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/nexus6/flare_red_02"
+}
+{
+"targetShaderName" "textures/nexus6/flare_red_02"
+"angles" "90 0 0"
+"radius" "5 90 50"
+"origin" "1152 384 -259"
+"classname" "misc_light_flare"
+}
+{
+"classname" "misc_light_flare"
+"origin" "320 1472 -259"
+"radius" "5 90 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/nexus6/flare_red_02"
+}
+{
+"targetShaderName" "textures/nexus6/flare_red_02"
+"angles" "90 0 0"
+"radius" "5 90 50"
+"origin" "512 1472 -259"
+"classname" "misc_light_flare"
+}
+{
+"targetShaderName" "textures/nexus6/flare_red_02"
+"angles" "90 0 0"
+"radius" "5 90 50"
+"origin" "1152 1472 -259"
+"classname" "misc_light_flare"
+}
+{
+"targetShaderName" "textures/nexus6/flare_red_02"
+"angles" "90 0 0"
+"radius" "5 90 50"
+"origin" "928 1472 -259"
+"classname" "misc_light_flare"
+}
+{
+"classname" "misc_light_flare"
+"origin" "704 1472 -259"
+"radius" "5 90 50"
+"angles" "90 0 0"
+"targetShaderName" "textures/nexus6/flare_red_02"
+}
+{
+"origin" "-1544 -576 -288"
+"classname" "misc_light_flare"
+}
+{
+"classname" "target_speaker"
+"origin" "-1560 -568 -472"
+"noise" "sound\ambient\steam.wav"
+"spawnflags" "1"
+}
+{
+"classname" "target_speaker"
+"origin" "1056 1024 -432"
+"noise" "sound\ambient\quickpulse.wav"
+"spawnflags" "1"
+}
+{
+"classname" "target_speaker"
+"origin" "-2112 1536 -832"
+"spawnflags" "1"
+"noise" "sound\ambient\30-60HzHum.wav"
+}
+{
+"noise" "sound\ambient\30-60HzHum.wav"
+"spawnflags" "1"
+"origin" "-2560 1536 -832"
+"classname" "target_speaker"
+}
+{
+"noise" "sound\ambient\fan.wav"
+"spawnflags" "1"
+"origin" "-2640 64 -192"
+"classname" "target_speaker"
+}
+{
+"spawnflags" "1"
+"noise" "sound\ambient\drone2.wav"
+"origin" "-2016 928 -784"
+"classname" "target_speaker"
+}
+{
+"spawnflags" "1"
+"noise" "sound\ambient\drone1.wav"
+"origin" "-448 640 -1032"
+"classname" "target_speaker"
+}
+{
+"spawnflags" "1"
+"noise" "sound\ambient\steam.wav"
+"origin" "-1560 1800 -880"
+"classname" "target_speaker"
+}
+{
+"classname" "misc_particle_system"
+"origin" "844 1028 -182"
+"psName" "nexus6/sparkerDown"
+}
+{
+"psName" "nexus6/sparkerDown"
+"origin" "844 1028 -182"
+"classname" "misc_particle_system"
+}
+{
+"psName" "nexus6/steamerPipe"
+"origin" "-1560 -568 -464"
+"classname" "misc_particle_system"
+}
+{
+"origin" "-384 272 -432"
+"classname" "info_player_intermission"
+"angle" "90"
+}
+{
+"classname" "team_alien_acid_tube"
+"origin" "-2256 216 -880"
+"angle" "86"
+}
+{
+"angle" "283"
+"origin" "-2136 144 -880"
+"classname" "team_alien_overmind"
+}
+{
+"classname" "team_alien_spawn"
+"origin" "-1840 176 -688"
+"angle" "99"
+}
+{
+"origin" "408 760 -376"
+"classname" "team_human_medistat"
+}
+{
+"angle" "5"
+"origin" "320 728 -368"
+"classname" "team_human_armoury"
+}
+{
+"origin" "256 1024 -368"
+"classname" "team_human_reactor"
+}
+{
+"classname" "team_human_spawn"
+"origin" "272 864 -376"
+"angle" "45"
+}
+{
+"angle" "315"
+"origin" "264 1168 -376"
+"classname" "team_human_spawn"
+}
+{
+"classname" "team_human_mgturret"
+"origin" "512 1312 -360"
+"angle" "360"
+}
+{
+"angle" "360"
+"origin" "512 736 -360"
+"classname" "team_human_mgturret"
+}
+{
+"classname" "info_null"
+"origin" "-2640 64 -464"
+"targetname" "spot2"
+}
+{
+"classname" "info_player_start"
+"origin" "-384 320 -464"
+"angle" "90"
+}
+{
+"classname" "info_human_intermission"
+"origin" "576 848 -288"
+"angle" "30"
+}
+{
+"classname" "info_alien_intermission"
+"origin" "-1744 808 -784"
+"angle" "235"
+}
+{
+"classname" "team_alien_spawn"
+"origin" "-2168 168 -688"
+"angle" "95"
+}
+{
+"angle" "86"
+"origin" "-1584 472 -880"
+"classname" "team_alien_acid_tube"
+}
+{
+"classname" "team_alien_barricade"
+"origin" "-2192 304 -880"
+}
+{
+"classname" "team_alien_barricade"
+"origin" "-1504 544 -880"
+"angle" "235"
+}
+{
+"classname" "misc_particle_system"
+"origin" "-1560 1796 -860"
+"psName" "nexus6/steamerRad"
+}
+{
+"angle" "90.000000"
+"message" "^5^5Human Base^7"
+"origin" "401.218170 1011.062012 -325.300964"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^5^5Human Main Entrance^7"
+"origin" "117.623985 2411.284424 -499.801239"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Window Hall^7"
+"origin" "-983.720093 2731.729492 -499.875000"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Fan Room^7"
+"origin" "-2639.056885 119.296326 -487.057312"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Fan Hall^7"
+"origin" "-2547.566650 1037.375244 -499.874298"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^5^5Human Side Entrance^7"
+"origin" "814.554260 366.863068 -485.647614"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^5^5Human Side Entrance^7"
+"origin" "245.715897 -220.935837 -499.874725"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Pipe Room Top^7"
+"origin" "-358.335175 572.735413 -469.689667"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Tall Hall^7"
+"origin" "-1327.862671 -269.662048 -483.533661"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Tall Hall^7"
+"origin" "-1862.713745 51.676533 -459.359283"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7The Column^7"
+"origin" "-3487.466797 270.163452 -534.053284"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^1^1Alien Main Entrance^7"
+"origin" "-3005.962646 516.824524 -878.217163"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^1^1Alien Base^7"
+"origin" "-1874.486206 511.999908 -814.997559"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^1^1Alien Back Entrance^7"
+"origin" "-404.001740 598.852783 -871.067505"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Tank Hallway^7"
+"origin" "-776.009888 1263.976563 -881.812439"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7The Generator^7"
+"origin" "-2574.183838 1565.807983 -708.483948"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Generator Hallway^7"
+"origin" "-1964.483887 2033.895874 -871.258179"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Generator Hallway^7"
+"origin" "-3156.264893 1136.241577 -850.966125"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Generator Maitenance^7"
+"origin" "-2250.194824 794.717896 -1115.709473"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Stairs^7"
+"origin" "-1111.543213 1683.465942 -434.884430"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Generator Catwalk^7"
+"origin" "-2053.052002 1539.631836 -427.999237"
+"classname" "target_location"
+}
