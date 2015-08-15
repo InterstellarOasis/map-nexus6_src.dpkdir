@@ -1,7 +1,7 @@
 {
 "message" "Nexus Corp. Infusion Plant 6"
 "classname" "worldspawn"
-"colorGrade" "gfx/nexus6/colorgrading"
+"gradingTexture" "gfx/nexus6/colorgrading"
 }
 {
 "yaw" "-1"
