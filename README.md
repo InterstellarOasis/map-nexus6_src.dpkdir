@@ -93,6 +93,7 @@ Usage and redistribution policy: Textures may be freely downloaded, modified, an
 History
 -------
 
+* 2015-08-16:	Nexus Corp. Infusion Plant 6 1.2 (Unvanquished community map)
 * 2009-12-04:	Tremulous 1.2 Beta (Gameplay preview)
 * 2006-03-31:	Tremulous 1.1.0 (Standalone)
-* 2005-08-11:	Map release
+* 2005-08-11:	Nexus Corp. Infusion Plant 6
