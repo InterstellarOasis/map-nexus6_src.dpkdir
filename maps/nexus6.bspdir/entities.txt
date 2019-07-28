@@ -400,7 +400,7 @@
 {
 "classname" "sfx_speaker"
 "origin" "-1560 -568 -472"
-"noise" "sound/ambient/steam"
+"noise" "sound/niveus/steam"
 "spawnflags" "1"
 }
 {
@@ -441,7 +441,7 @@
 }
 {
 "spawnflags" "1"
-"noise" "sound/ambient/steam"
+"noise" "sound/niveus/steam"
 "origin" "-1560 1800 -880"
 "classname" "sfx_speaker"
 }
