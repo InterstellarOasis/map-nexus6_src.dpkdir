@@ -1,5 +1,6 @@
 {
-	map			"nexus6"
-	longname	"Nexus 6"
-	type		"tremulous"
+	map "nexus6"
+	longname "Nexus Corp. Infusion Plant 6"
+	author "Jex"
+	type "tremulous"
 }
