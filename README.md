@@ -9,7 +9,7 @@ This port is an Interstellar Oasis initiative: [github.com/InterstellarOasis/Int
 
 ## Levelshot
 
-![Levelshot](meta/nexus6/nexus6_web.jpg)
+![Levelshot](meta/nexus6/nexus6.webp)
 
 
 ## How-to
